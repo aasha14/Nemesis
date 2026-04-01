@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "GameOfThrones";
+  src:
+    url("/fonts/GameOfThrones.woff") format("woff"),
+    url("/fonts/GameOfThrones.ttf") format("truetype");
+  font-display: swap;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  width: 100%;
+  min-height: 100%;
+}
+
+body {
+  background: black;
+  font-family: Arial, sans-serif;
+}
+
+.got-title {
+  font-family: "GameOfThrones", serif;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
