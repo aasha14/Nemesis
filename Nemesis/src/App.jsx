@@ -547,7 +547,7 @@ function HomePage() {
                 letterSpacing: "1.2px",
               }}
             >
-              Powered by SAV
+              Powered by Aasha@5172
             </p>
 
             <div
@@ -1510,7 +1510,7 @@ In this heatmap-style view, the system highlights zones that receive stronger Ro
                 opacity: 0.82,
               }}
             >
-              Powered by SAV
+              Powered by Aasha@5172
             </p>
           </div>
 
