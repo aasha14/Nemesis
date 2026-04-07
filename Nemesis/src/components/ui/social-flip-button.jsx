@@ -5,9 +5,13 @@ import { Github, Linkedin, Mail } from "lucide-react";
 
 const contactItems = [
   {
+
+    icon: Github,
+  },
+  {
     letter: "C",
     type: "github",
-    href: "https://github.com/aasha14/"
+    href: "https://github.com/aasha14",
     label: "Aasha GitHub",
     icon: Github,
   },
@@ -15,39 +19,25 @@ const contactItems = [
     letter: "O",
     type: "linkedin",
     href: "https://www.linkedin.com/in/aasha-kumari-4a0b2926b/",
-    label: "Aasha Linkedin",
+    label: "Aasha LinkedIn",
     icon: Linkedin,
   },
   {
     letter: "N",
-    type: "phone",
-    href: "6207915787",
-    label: "Aasha phone",
-    icon: Github,
-  },
-  {
-    letter: "T",
-    type: "email",
-    href: "aaaaaashu01@gmail.com/",
-    label: "Aritra LinkedIn",
-    icon: Linkedin,
-  },
-  {
-    letter: "A",
     type: "github",
     href: "https://github.com/aasha14",
-    label: "Vaibhav GitHub",
+    label: "Aasha GitHub",
     icon: Github,
   },
   {
-    letter: "C",
+    letter: "T",
     type: "linkedin",
     href: "https://www.linkedin.com/in/aasha-kumari-4a0b2926b/",
-    label: "Vaibhav LinkedIn",
+    label: "Aasha LinkedIn",
     icon: Linkedin,
   },
   {
-    letter: "T",
+    letter: "S",
     type: "github",
     href: "https://github.com/aasha14",
     label: "Aasha GitHub",
